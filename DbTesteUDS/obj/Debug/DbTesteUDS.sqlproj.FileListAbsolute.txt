@@ -1,0 +1,9 @@
+E:\WorkSpacePessoal\TesteUDS\DbTesteUDS\bin\Debug\DbTesteUDS.dacpac
+E:\WorkSpacePessoal\TesteUDS\DbTesteUDS\bin\Debug\DbTesteUDS.dll
+E:\WorkSpacePessoal\TesteUDS\DbTesteUDS\bin\Debug\DbTesteUDS.pdb
+E:\WorkSpacePessoal\TesteUDS\DbTesteUDS\obj\Debug\Model.xml
+E:\WorkSpacePessoal\TesteUDS\DbTesteUDS\obj\Debug\refactor.xml
+E:\WorkSpacePessoal\TesteUDS\DbTesteUDS\obj\Debug\postdeploy.sql
+E:\WorkSpacePessoal\TesteUDS\DbTesteUDS\obj\Debug\predeploy.sql
+E:\WorkSpacePessoal\TesteUDS\DbTesteUDS\obj\Debug\DbTesteUDS.dll
+E:\WorkSpacePessoal\TesteUDS\DbTesteUDS\obj\Debug\DbTesteUDS.pdb

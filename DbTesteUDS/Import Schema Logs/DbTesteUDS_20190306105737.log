@@ -1,0 +1,79 @@
+06/03/2019 19:57:37	This log contains information about the import schema operation into project 'DbTesteUDS' on computer 'S360-QS' by user 'queliton'.
+06/03/2019 19:57:37	Import of database schema has started.
+06/03/2019 19:57:54	Gathering logins
+06/03/2019 20:00:57	Gathering database credentials
+06/03/2019 20:00:57	Gathering database options
+06/03/2019 20:00:57	Gathering generic database scoped configuration option
+06/03/2019 20:00:57	Gathering users
+06/03/2019 20:00:57	Gathering roles
+06/03/2019 20:00:57	Gathering application roles
+06/03/2019 20:00:57	Gathering role memberships
+06/03/2019 20:00:57	Gathering filegroups
+06/03/2019 20:00:57	Gathering full-text catalogs
+06/03/2019 20:00:57	Gathering assemblies
+06/03/2019 20:00:57	Gathering certificates
+06/03/2019 20:00:57	Gathering symmetric keys
+06/03/2019 20:00:57	Gathering encrypted symmetric keys
+06/03/2019 20:00:57	Gathering schemas
+06/03/2019 20:00:57	Gathering XML schema collections
+06/03/2019 20:00:57	Gathering user-defined data types
+06/03/2019 20:00:57	Gathering user-defined types
+06/03/2019 20:00:57	Gathering table types
+06/03/2019 20:00:57	Gathering unique keys for table types
+06/03/2019 20:00:57	Gathering primary keys for table types
+06/03/2019 20:00:57	Gathering indexes for table types
+06/03/2019 20:00:58	Gathering check constraints for table types
+06/03/2019 20:00:58	Gathering default constraints for table types
+06/03/2019 20:00:58	Gathering partition functions
+06/03/2019 20:00:58	Gathering partition schemes
+06/03/2019 20:00:58	Gathering functions
+06/03/2019 20:00:58	Gathering encrypted functions
+06/03/2019 20:00:58	Gathering aggregates
+06/03/2019 20:00:58	Gathering procedures
+06/03/2019 20:00:58	Gathering encrypted procedures
+06/03/2019 20:00:58	Gathering tables
+06/03/2019 20:00:58	Gathering primary keys
+06/03/2019 20:00:58	Gathering unique constraints
+06/03/2019 20:00:58	Gathering foreign keys
+06/03/2019 20:00:58	Gathering default constraints
+06/03/2019 20:00:58	Gathering check constraints
+06/03/2019 20:00:58	Gathering views
+06/03/2019 20:00:58	Gathering encrypted views
+06/03/2019 20:00:58	Gathering indexes
+06/03/2019 20:00:58	Gathering statistics
+06/03/2019 20:00:58	Gathering full-text index stoplists
+06/03/2019 20:00:58	Gathering search property lists
+06/03/2019 20:00:58	Gathering search properties
+06/03/2019 20:00:58	Gathering full-text indexes
+06/03/2019 20:00:58	Gathering column store indexes
+06/03/2019 20:00:58	Gathering spatial indexes
+06/03/2019 20:00:58	Gathering XML indexes
+06/03/2019 20:00:58	Gathering Selective XML indexes
+06/03/2019 20:00:58	Gathering encrypted triggers
+06/03/2019 20:00:58	Gathering triggers
+06/03/2019 20:00:58	Gathering encrypted and clr ddl triggers
+06/03/2019 20:00:58	Gathering ddl triggers
+06/03/2019 20:00:58	Gathering synonyms
+06/03/2019 20:00:58	Gathering defaults
+06/03/2019 20:00:58	Gathering data constraint uddt bindings
+06/03/2019 20:00:58	Gathering rules
+06/03/2019 20:00:58	Gathering data constraint uddt bindings
+06/03/2019 20:00:59	Gathering message types
+06/03/2019 20:00:59	Gathering queues
+06/03/2019 20:00:59	Gathering contracts
+06/03/2019 20:00:59	Gathering services
+06/03/2019 20:00:59	Gathering event notifications
+06/03/2019 20:00:59	Gathering remote service bindings
+06/03/2019 20:00:59	Gathering broker priorities
+06/03/2019 20:00:59	Gathering signatures
+06/03/2019 20:00:59	Gathering data compression options
+06/03/2019 20:00:59	Gathering sequence types
+06/03/2019 20:00:59	Gathering security policies
+06/03/2019 20:00:59	Gather column encryption keys
+06/03/2019 20:00:59	Gathering column master keys
+06/03/2019 20:00:59	Gathering external data sources
+06/03/2019 20:00:59	Gathering external tables
+06/03/2019 20:00:59	Gathering extended properties
+06/03/2019 20:01:01	Finished importing database.
+06/03/2019 20:01:01	A summary of the import was saved to the following location: E:\WorkSpacePessoal\TesteUDS\DbTesteUDS\Import Schema Logs\DbTesteUDS_20190306105737.log
+06/03/2019 20:01:01	Click Finish to continue...
