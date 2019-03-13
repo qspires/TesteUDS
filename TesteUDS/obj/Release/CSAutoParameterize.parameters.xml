@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="TesteUDS.Properties.Settings.Connect-Web.config Connection String" description="TesteUDS.Properties.Settings.Connect Connection String used in web.config by the application to access the database." defaultValue="Data Source=controlegp-dev.database.windows.net;Initial Catalog=TesteUDS;Persist Security Info=True;User ID=controlegpdev;Password=OeVskUtLk9BZMY5DdFyF;MultipleActiveResultSets=True;Connect Timeout=30;Application Name=TesteUDS" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="E:\\WorkSpacePessoal2\\TesteUDS\\TesteUDS\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='TesteUDS.Properties.Settings.Connect']/@connectionString" />
+  </parameter>
+</parameters>

@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/TesteUDS/v15/Server/sqlite3
+/TesteUDS/Properties/PublishProfiles
+/.vs/TesteUDS/v15
+/TesteUDS/DbTesteUDS/DbTesteUDS.dbmdl
