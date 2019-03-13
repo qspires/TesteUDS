@@ -2,6 +2,7 @@
 Teste UDS Back-END
 
 Link do Projeto Publicado Azure
+https://testeuds.azurewebsites.net/
 
 
 string de conexão para do banco de dados online para teste, enviei por e-mail.
